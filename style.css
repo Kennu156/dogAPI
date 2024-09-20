@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: brown;
+    padding: 20px;
+}
+.dog-image {
+    max-width: 500px;
+    margin: 20px 0;
+    border-radius: 40px;
+}
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: aqua;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    color:aquamarine;
+    font-size: 40px;
+}
+
+.middle {
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
